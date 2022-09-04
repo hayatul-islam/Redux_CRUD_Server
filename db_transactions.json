@@ -1,0 +1,94 @@
+{
+  "transactions": [
+    {
+      "name": "junuary",
+      "amount": "2000",
+      "type": "expense",
+      "id": 2
+    },
+    {
+      "name": "income",
+      "amount": 1000,
+      "type": "income",
+      "id": 6
+    },
+    {
+      "name": "july",
+      "amount": 400,
+      "type": "expense",
+      "id": 9
+    },
+    {
+      "name": "google",
+      "type": "income",
+      "amount": 4000,
+      "id": 11
+    },
+    {
+      "name": "exp",
+      "amount": "4000",
+      "type": "expense",
+      "id": 12
+    },
+    {
+      "name": "last",
+      "type": "expense",
+      "amount": 100,
+      "id": 14
+    },
+    {
+      "name": "last salary",
+      "amount": "1000",
+      "type": "income",
+      "id": 15
+    },
+    {
+      "name": "extra money",
+      "amount": "4000",
+      "type": "income",
+      "id": 16
+    },
+    {
+      "name": "fiver ",
+      "amount": 3000,
+      "type": "income",
+      "id": 17
+    },
+    {
+      "name": "Payoneer",
+      "amount": "20000",
+      "type": "expense",
+      "id": 18
+    },
+    {
+      "name": "Upwork",
+      "amount": "4000",
+      "type": "income",
+      "id": 19
+    },
+    {
+      "name": "google",
+      "type": "income",
+      "amount": 4000,
+      "id": 20
+    },
+    {
+      "name": "facebook",
+      "type": "income",
+      "amount": 3000,
+      "id": 21
+    },
+    {
+      "name": "google",
+      "type": "expense",
+      "amount": 400,
+      "id": 22
+    },
+    {
+      "name": "extra exp",
+      "type": "expense",
+      "amount": 500,
+      "id": 23
+    }
+  ]
+}
