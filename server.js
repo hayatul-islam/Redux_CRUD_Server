@@ -1,6 +1,6 @@
 const jsonServer = require("json-server");
 const server = jsonServer.create();
-const router = jsonServer.router("./db_videos.json");
+const router = jsonServer.router("./db_transactions.json");
 const middlewares = jsonServer.defaults({
   static: "./build",
 });
